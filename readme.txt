@@ -1,5 +1,7 @@
 Test readme file
 
+Readyreadyready
+
 1. CREATE A REPOSITORY
 cd directory
 git init
